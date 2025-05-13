@@ -21,5 +21,13 @@ A hybrid music recommendation engine built using content-based and collaborative
 - Clustering with t-SNE for better insight  
 - Histogram and scatter plots of features
 
+  ## Files Included
+
+- `Music_Recommendation_System.ipynb` – Main Jupyter notebook containing code for data preprocessing, visualization, and the recommendation logic.
+- `Spotify-2000.csv` – Dataset containing metadata of 2000 songs including genre, popularity, and other audio features.
+- `README.md` – Project documentation outlining purpose, tech stack, features, and usage instructions.
+- `MUSIC RECOMMENDATION SYSTEM.pdf` – Final academic project report detailing the methodology, design, and results.
+
+
 ## Objective
 To build a smart music engine that transforms the listening experience with intelligent, diverse, and evolving music recommendations based on user preferences and song characteristics.
